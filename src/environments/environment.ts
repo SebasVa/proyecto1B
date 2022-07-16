@@ -4,13 +4,14 @@
 
 export const environment = {
   production: false,
-  firebase: {
-    apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: ""
+  firebase:{
+    apiKey: "AIzaSyCwcKsFGKm5FPdY5Zj6BCjm5aMAygJ2hN0",
+    authDomain: "gpsapp2022a.firebaseapp.com",
+    projectId: "gpsapp2022a",
+    storageBucket: "gpsapp2022a.appspot.com",
+    messagingSenderId: "85969574482",
+    appId: "1:85969574482:web:3e29993fdba57873cc1d8b",
+    measurementId: "G-GF46QGFR09"
   }
 };
 
