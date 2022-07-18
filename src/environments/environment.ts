@@ -4,14 +4,13 @@
 
 export const environment = {
   production: false,
-  firebase:{
-    apiKey: "AIzaSyCwcKsFGKm5FPdY5Zj6BCjm5aMAygJ2hN0",
-    authDomain: "gpsapp2022a.firebaseapp.com",
-    projectId: "gpsapp2022a",
-    storageBucket: "gpsapp2022a.appspot.com",
-    messagingSenderId: "85969574482",
-    appId: "1:85969574482:web:3e29993fdba57873cc1d8b",
-    measurementId: "G-GF46QGFR09"
+  firebase: {
+    apiKey: "AIzaSyB7pQDlwe3vd-61cDEJzqssjnaDVH-ZznU",
+    authDomain: "proyecto1b-d17a7.firebaseapp.com",
+    projectId: "proyecto1b-d17a7",
+    storageBucket: "proyecto1b-d17a7.appspot.com",
+    messagingSenderId: "457061549584",
+    appId: "1:457061549584:web:bcc7d4395d97bb8adbac95"
   }
 };
 
